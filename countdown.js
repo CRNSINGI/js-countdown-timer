@@ -6,6 +6,8 @@ let x = setInterval(function() {
 
 let now = new Date().getTime(); // Get todays date and time 
 
+let distance = countDownDate - now;  // find the distance between now 
+
 
 
 
